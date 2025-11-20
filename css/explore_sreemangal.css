@@ -129,7 +129,10 @@ strong {
   background-color: var(--section-bg-color);
 }
 
-
+.section-padding {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
 
 .section-overlay {
   content: "";
@@ -894,7 +897,6 @@ strong {
 .events-section.section-bg .container > .row {
   margin-right: 5px;
   margin-left: 5px;
-
 }
 
 .events-section.section-bg .container > .row .row {
@@ -1032,7 +1034,6 @@ strong {
 -----------------------------------------*/
 .site-footer {
   position: relative;
-  padding-top: 50px;
   padding-bottom: 200px;
 }
 
@@ -1180,8 +1181,8 @@ strong {
   }
 
   .section-padding {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
   
   .navbar {
