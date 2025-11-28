@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://shamim-dot-in.github.io/The-Tea-Garden-Valley-Initiative/index.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://shamim-dot-in.github.io/The-Tea-Garden-Valley-Initiative/Destinations.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://shamim-dot-in.github.io/The-Tea-Garden-Valley-Initiative/Hotels.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://shamim-dot-in.github.io/The-Tea-Garden-Valley-Initiative/Tour_Packages.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.70</priority>
+    </url>
+
+    <url>
+        <loc>https://shamim-dot-in.github.io/The-Tea-Garden-Valley-Initiative/about.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+    <url>
+        <loc>https://shamim-dot-in.github.io/The-Tea-Garden-Valley-Initiative/Contact_us.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+</urlset>
